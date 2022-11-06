@@ -1,0 +1,31 @@
+.search-box {
+    margin-top: 15px;
+}
+
+/* .search-box-input {
+    display: flex;
+} */
+
+.search-box-form-label {
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+}
+
+.search-box-form-input {
+    width: 374px;
+    margin-right: 30px;
+    font-family: inherit;
+    font-size: 1rem;
+    border: 1px solid #000000;
+    padding: 12px;
+    box-sizing: border-box;
+}
+
+.search-box-form-submit {
+    width: 120px;
+    background: #833AE0;
+    border: 0;
+    padding: 12px;
+    color: white;
+}

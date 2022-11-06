@@ -1,0 +1,32 @@
+.coin-item {
+    display: flex;
+    flex-wrap: wrap;
+    margin-bottom: 25px;
+}
+
+.text-wrapper {
+    align-items: center; 
+}
+
+.coin-item-text {
+    max-width: 224px; 
+    
+}
+
+.coin-item-img {
+    width: 120px;
+    margin-right: 30px;
+}
+
+.coin-item-name {
+    font-weight: 700;
+    font-size: 16px;
+    color: #833AE0; 
+    margin-bottom: 15px;
+}
+
+.coin-item-description {
+    font-weight: 400;
+    font-size: 12px;
+    width: 225px;
+}

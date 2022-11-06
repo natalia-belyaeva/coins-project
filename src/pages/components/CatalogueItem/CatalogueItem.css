@@ -1,0 +1,27 @@
+.catalogue-item-name {
+    font-weight: 500;
+    font-size: 28px;
+    margin-bottom: 20px;
+}
+
+.show-all {
+    font-weight: 300;
+    font-size: 14px;
+    margin-top: 20px;
+    font-style: normal;
+    display: flex;
+}
+
+.show-all:hover {
+    text-decoration-line: underline;
+    cursor: default;
+}
+
+.show-all-name {
+    margin-right: 5px;
+}
+
+.catalogue-item-img {
+    width: 214px;
+    margin-top: 10px;
+}

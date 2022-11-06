@@ -1,0 +1,73 @@
+.advanced-filter-header {
+    font-weight: 300;
+    font-size: 14px;
+    text-decoration-line: underline;
+    display: flex;
+    margin-top: 10px;
+    margin-bottom: 25px;
+    max-width: 130px;
+}
+
+.advanced-filter-header:hover {
+    cursor: default;
+}
+
+.advanced-filter-header-arrow {
+    margin-left: 5px;
+}
+
+.advanced-filter-drop-down-list {
+    display: flex;
+}
+
+.from-to-filter {
+    display: flex;
+}
+
+.filter-item-name {
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    margin-top: 20px;
+    margin-bottom: 5px;
+}
+
+.drop-down-list {
+    width: 374px;
+    margin-right: 30px;
+    font-family: inherit;
+    font-size: 1rem;
+    border: 1px solid #000000;
+    padding: 12px;
+    box-sizing: border-box;
+}
+
+/* .drop-down-list-item {
+    width: 374px;
+    margin-right: 30px;
+    font-family: inherit;
+    font-size: 1rem;
+    border: 1px solid #000000;
+    padding: 12px;
+    box-sizing: border-box;
+} */
+
+.filter-from {
+    margin-right: 5px;
+    margin-left: 5px;
+}
+
+.filter-to {
+    margin-right: 15px;
+    margin-left: 5px;
+}
+
+.year-from {
+    margin-right: 5px;
+    margin-left: 5px;
+}
+
+.year-to {
+    margin-right: 5px;
+    margin-left: 5px;
+}

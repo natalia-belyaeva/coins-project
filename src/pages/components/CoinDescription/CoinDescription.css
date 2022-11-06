@@ -1,0 +1,51 @@
+.wrapper {
+    display: inline-block;
+    text-align: center
+}
+
+.coin-description {
+    display: flex;
+}
+
+.front-img {
+    width: 300px;
+    margin-bottom: 25px;
+}
+
+.revers-img {
+    width: 300px;
+}
+
+.coin-desc {
+    background: rgba(196, 196, 196, 0.5);
+    max-width: 452px;
+    margin-left: 30px;
+    padding: 20px 40px 20px 40px;
+}
+
+.coin-desc-name {
+    font-weight: 700;
+    font-size: 28px;
+    margin-bottom: 20px;
+}
+
+.info-table {
+    border-collapse: collapse;
+    width: 366px;
+    margin-top: 50px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+td {    
+    border-top: 1px solid #B1ACAC;
+    padding: 6px 80px 6px 6px
+}
+
+tr:nth-child(odd) { 
+    background-color: white; 
+}
+
+tr:nth-child(even) {
+    background-color: #d4d4d4;
+}

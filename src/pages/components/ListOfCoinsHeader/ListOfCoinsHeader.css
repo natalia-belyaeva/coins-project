@@ -1,0 +1,26 @@
+.header-title {
+    margin-bottom: 0;
+}
+
+.link {
+    margin-bottom: 15px;
+    font-weight: 500;
+    font-size: 10px;
+    color: #B1ABAB;
+    display: flex;
+}
+
+.list-of-coins {
+    margin: 0;
+}
+
+.home-page-link {
+    text-decoration-line: underline;
+}
+
+.home-page-link:visited {
+    font-weight: 500;
+    font-size: 10px;
+    color: #B1ABAB;
+    text-decoration-line: underline;
+}

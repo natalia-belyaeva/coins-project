@@ -1,0 +1,6 @@
+.catalogues {
+    display:flex;
+    margin-top: 60px;
+    max-width: 1022px;
+    justify-content: space-between;
+}
